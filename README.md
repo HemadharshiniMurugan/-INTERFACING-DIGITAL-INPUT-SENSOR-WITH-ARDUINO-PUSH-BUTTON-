@@ -57,7 +57,7 @@ FIGURE-02
 
 
 ## PROGRAM 
-
+```
 int led=3;
 int pushbutton=4;
 void setup()
@@ -82,7 +82,7 @@ digitalWrite(led,LOW);
 delay(500);
 }
 }
-
+```
 
 
 
