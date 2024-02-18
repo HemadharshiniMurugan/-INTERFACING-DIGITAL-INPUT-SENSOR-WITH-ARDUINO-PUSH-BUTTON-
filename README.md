@@ -100,4 +100,8 @@ delay(500);
 ## OUTPUT OF SIMULATION :
 
 [My image](username.github.com/repository/img/image.jpg)
+![before](https://github.com/HemadharshiniMurugan/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/119404809/3c759609-4c75-4781-ad34-5ead1d69a989)
+![after](https://github.com/HemadharshiniMurugan/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/119404809/2a716c04-ae4c-428b-97f3-44d563d2942b)
+
+
 
