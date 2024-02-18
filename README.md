@@ -62,8 +62,31 @@ FIGURE -03
 
 
 ## PROGRAM 
- 
- 
+
+int led=3;
+int pushbutton=4;
+void setup()
+{
+pinMode(led, OUTPUT);
+pinMode(pushbutton,INPUT);
+}
+void loop()
+{
+int pb;
+pb=digitalRead(pushbutton);
+if (pb==LOW)
+{
+digitalWrite(led,HIGH);
+delay(500);
+digitalWrite(led,LOW);
+delay(500);
+}
+else;
+{
+digitalWrite(led,LOW);
+delay(500);
+}
+}
 
 
 
