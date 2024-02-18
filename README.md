@@ -56,10 +56,7 @@ FIGURE-02
 
 
 
-FIGURE -03
-
-![Uploading 1.jpg…]()
-
+![1](https://github.com/HemadharshiniMurugan/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/119404809/a5df1207-2e21-4cc8-b03f-16cac9e32259)
 
 
 ## PROGRAM 
