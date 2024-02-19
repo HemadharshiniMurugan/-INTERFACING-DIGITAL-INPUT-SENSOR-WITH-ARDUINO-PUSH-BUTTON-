@@ -102,9 +102,9 @@ delay(500);
 
 [My image](username.github.com/repository/img/image.jpg)
 
-![before](https://github.com/HemadharshiniMurugan/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/119404809/3c759609-4c75-4781-ad34-5ead1d69a989)
+![Screenshot (207)](https://github.com/HemadharshiniMurugan/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/119404809/2c27b51b-cf8f-4d19-a773-358c355b5a56)
 
-![after](https://github.com/HemadharshiniMurugan/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/119404809/2a716c04-ae4c-428b-97f3-44d563d2942b)
 
+![Screenshot (206)](https://github.com/HemadharshiniMurugan/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/119404809/f0199bad-0095-408b-99e3-90a962aabacb)
 
 
