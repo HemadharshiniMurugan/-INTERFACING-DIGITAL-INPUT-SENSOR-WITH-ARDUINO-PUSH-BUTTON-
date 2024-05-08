@@ -108,3 +108,8 @@ delay(500);
 ![Screenshot (206)](https://github.com/HemadharshiniMurugan/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/119404809/f0199bad-0095-408b-99e3-90a962aabacb)
 
 
+## Result:
+Hence,interfacing digital input sensor with ardiuo push button is successfully simulated.
+
+
+
